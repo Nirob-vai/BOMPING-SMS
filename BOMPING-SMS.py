@@ -124,4 +124,4 @@ print(""" \033[1;32m
  TNQ FOR USING OUR TOOLS 🖤
 """)
 #madarcod ase geli script curi korte 🙂
-#bancod tk khoroc kore nijeo to sikhte paros
+#bancod tk khoroc kore nijeo to sikhte paros 
